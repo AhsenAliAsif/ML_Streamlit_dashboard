@@ -1,5 +1,3 @@
-from operator import index
-from tkinter import E
 import streamlit as st
 import pandas as pd
 import numpy as np
